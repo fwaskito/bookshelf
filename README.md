@@ -1,4 +1,4 @@
-# Notes App (Back-End)
+# Bookshelf API
 [![commit](https://img.shields.io/github/commit-activity/m/fwaskito/bookshelf-api-fwaskito)](https://github.com/fwaskito/bookshelf-api-fwaskito/commits/main)
 [![issues](https://img.shields.io/github/issues/fwaskito/bookshelf-api-fwaskito)](https://github.com/fwaskito/bookshelf-api-fwaskito/issues)
 
