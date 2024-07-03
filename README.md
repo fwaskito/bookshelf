@@ -12,3 +12,7 @@ Built in JavaScript using Hapi framework.
 
 ### Depedencies
 [![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/fwaskito/bookshelf/%40hapi%2Fhapi)](https://www.npmjs.com/package/@hapi/hapi) [![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/fwaskito/bookshelf/nanoid)](https://www.npmjs.com/package/nanoid)
+
+## Testing
+Testing was done in two iterations for each available API and evaluated based on several criteria. The scenarios were primarily focused on CRUD operations. The testing tool used was Newman (Postman CLI).
+- Result: [Test summary report](https://rawcdn.githack.com/fwaskito/me/18c656159ac1f3dc669fdfd5c1697ec5531fa031/booshelf/test-summary-report.html)
