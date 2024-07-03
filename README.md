@@ -1,7 +1,7 @@
-# Notes API
+# Bookshelf API
 ![GitHub Created At](https://img.shields.io/github/created-at/fwaskito/bookshelf?labelColor=606060&color=262626) ![GitHub last commit](https://img.shields.io/github/last-commit/fwaskito/bookshelf?labelColor=6060606&color=262626)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/fwaskito/bookshelf?labelColor=606060&color=262626) 
 
-Back-end side of a web-based Notes application with REST architecture. \
+Back-end side of a web-based Bookshelf application with REST architecture. \
 Built in JavaScript using Hapi framework.
 
 ## Technology
