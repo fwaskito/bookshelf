@@ -1,19 +1,14 @@
-# Bookshelf API
-[![commit](https://img.shields.io/github/commit-activity/m/fwaskito/bookshelf-api-fwaskito)](https://github.com/fwaskito/bookshelf-api-fwaskito/commits/main)
-[![issues](https://img.shields.io/github/issues/fwaskito/bookshelf-api-fwaskito)](https://github.com/fwaskito/bookshelf-api-fwaskito/issues)
+# Notes API
+![GitHub Created At](https://img.shields.io/github/created-at/fwaskito/bookshelf?labelColor=606060&color=262626) ![GitHub last commit](https://img.shields.io/github/last-commit/fwaskito/bookshelf?labelColor=6060606&color=262626)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/fwaskito/bookshelf?labelColor=606060&color=262626) 
 
-A RESTFul API of Bookshelf application bulit from scratch with Hapi.
-This is a final project for Back-End course of Dicoding and as part of AWS Back-End Academy.
+Back-end side of a web-based Notes application with REST architecture. \
+Built in JavaScript using Hapi framework.
 
-## Tech
+## Technology
+### Most Vital
+- **Node.js** --- JavaScript runtime environment
+- **NPM** --- Node.js package manager
+- **Postman** --- API development tool
 
-The APIs use these open source projects:
-- [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en/about) - JavaScript runtime environment
-- [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/about-npm) - Node.js package manager
-
-
-## Dependencies
-[![hapi](https://img.shields.io/github/package-json/dependency-version/fwaskito/bookshelf-api-fwaskito/@hapi/hapi)](https://www.npmjs.com/package/@hapi/hapi)
-
-## 
-&#169; F. Waskito 2024.
+### Depedencies
+[![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/fwaskito/bookshelf/%40hapi%2Fhapi)](https://www.npmjs.com/package/@hapi/hapi) [![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/fwaskito/bookshelf/nanoid)](https://www.npmjs.com/package/nanoid)
