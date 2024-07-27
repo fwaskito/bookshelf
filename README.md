@@ -1,20 +1,20 @@
 # Bookshelf API
-![GitHub Created At](https://img.shields.io/github/created-at/fwaskito/bookshelf?labelColor=606060&color=262626) ![GitHub last commit](https://img.shields.io/github/last-commit/fwaskito/bookshelf?labelColor=6060606&color=262626)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/fwaskito/bookshelf?labelColor=606060&color=262626) 
+![GitHub Created At](https://img.shields.io/github/created-at/fwaskito/bookshelf?labelColor=606060&color=262626)
 
-Back-end side of a web-based Bookshelf application with REST architecture. \
+Back-end side of a web-based Bookshelf application with REST architecture.\
 Built in JavaScript using Hapi framework.
 
 ## Technology
-### Most Vital
--  [**Node.js**](https://nodejs.org) --- JavaScript runtime environment
--  [**NPM**](https://www.npmjs.com/) --- Node.js package manager
--  [**Postman**](https://www.postman.com/) --- API development tool
+### Most vital
+-  [**Node.js**](https://nodejs.org) &mdash; JavaScript runtime environment
+-  [**NPM**](https://www.npmjs.com/) &mdash; Node.js package manager
+-  [**Postman**](https://www.postman.com/) &mdash; API development tool
 
 ### Depedencies
 [![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/fwaskito/bookshelf/%40hapi%2Fhapi)](https://www.npmjs.com/package/@hapi/hapi) [![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/fwaskito/bookshelf/nanoid)](https://www.npmjs.com/package/nanoid)
 
 ## Testing
-Testing was done in two iterations for each available API and evaluated based on several criteria. The scenarios were primarily focused on CRUD operations. The testing tool used was Newman (Postman CLI).
+Testing was done in two iterations for each available endpoint API and evaluated based on several criteria. The scenarios focused primarily on CRUD (create, read, update, delete) operations, and Newman (Postman CLI) was used as the testing tool.
 - Result: [Test summary report](https://rawcdn.githack.com/fwaskito/me/18c656159ac1f3dc669fdfd5c1697ec5531fa031/booshelf/test-summary-report.html)
 
 ## Credits
