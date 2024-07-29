@@ -15,7 +15,7 @@ Built in JavaScript using Hapi framework.
 
 ## Testing
 Testing was done in two iterations for each available endpoint API and evaluated based on several criteria. The scenarios focused primarily on CRUD (create, read, update, delete) operations, and Newman (Postman CLI) was used as the testing tool.
-- Result: [Test summary report](https://rawcdn.githack.com/fwaskito/me/18c656159ac1f3dc669fdfd5c1697ec5531fa031/booshelf/test-summary-report.html)
+- Result: [Test summary report](https://rawcdn.githack.com/fwaskito/me/c7aba951f83e449d2dad894c8e2a5c6404411b81/bookshelf/test-summary-report.html)
 
 ## Credits
 > This is a project of Dicoding's Back-End course and as part of the AWS Back-End Academy.
